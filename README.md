@@ -1,5 +1,5 @@
 # 1st-html-project
 the project consists of three main files
-intel.html-which has a blog on mordern art and a survey form in it
-m.html which has information about solr system
-r.html -consists of basic resume pattern
+1.intel.html-which has a blog on mordern art and a survey form in it.
+2.m.html which has information about solar system.
+3.r.html -consists of basic resume pattern.
